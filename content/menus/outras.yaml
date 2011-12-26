@@ -1,0 +1,11 @@
+name: Outras Paragens
+children:
+ - name: Outras Paragens
+   url: /
+   children:
+    -   name: Homepage
+        url: http://luispedro.org
+    -   name: twitter
+        url: https://twitter.com/luispedrocoelho
+    -   name: google+
+        url: https://plus.google.com/106906657031384929499

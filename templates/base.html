@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="favicon.ico" />
 
     {% compress css %}
-    <link href="/media/style/rabbit.scss" rel="stylesheet" type="text/x-sass" charset="utf-8" />
+    <link href="/static/style/rabbit.scss" rel="stylesheet" type="text/x-sass" charset="utf-8" />
     {% endcompress %}
 
     {% endblock %}
@@ -22,10 +22,17 @@
     {% block topbar %}
         {% show_tabs "Top Menu" %}
     {% endblock %}
-</div>
-<div id="header2">
   <div class="logo">{% block logo %}rabbit's blog{% endblock %}</div>
   <div class="banner"><span>{% block tagline %}um texto pode esconder outro, leia duas vezes antes de avançar{% endblock %}</span></div>
+</div>
+
+<div id="right">
+  {% block sidebar %}
+    {% show_menu "Blogroll.pt" %}
+  {% endblock %}
+</div>
+<div id="left">
+  <h3>Outras Paragens</h3>
 </div>
 
 {% autoescape off %}
@@ -36,11 +43,6 @@
         </div>
 {% endautoescape %}
 
-<div id="menu">
-  {% block sidebar %}
-    {% show_menu "Main Menu" %}
-  {% endblock %}
-</div>
 <div class="spacer">&nbsp;</div>
 <div class="footer">
         {% block footer %}

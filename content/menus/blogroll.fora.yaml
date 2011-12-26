@@ -1,0 +1,20 @@
+name: Blogroll.fora
+children:
+    -   name: Kantoos
+        url: http://kantooseconomics.com/
+    -   name: Megan McArdle
+        url: http://www.theatlantic.com/megan-mcardle/
+    -   name: Marginal Revolution
+        url: http://marginalrevolution.com/
+    -   name: The Money Illusion
+        url: http://www.themoneyillusion.com/
+    -   name: Super Economy
+        url: http://super-economy.blogspot.com/
+    -   name: The Monkey Cage
+        url: http://themonkeycage.org/
+    -   name: Modeled Behavior
+        url: http://modeledbehavior.com/
+    -   name: Worthwhile Canadian Iniciative
+        url: http://worthwhile.typepad.com/worthwhile_canadian_initi/
+    -   name: Moneybox (Matt Yglesias)
+        url: http://www.slate.com/blogs/moneybox.html

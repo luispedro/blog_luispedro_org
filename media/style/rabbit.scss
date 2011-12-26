@@ -1,0 +1,24 @@
+$colwidth: 17%;
+$colpad: 3em;
+$colmin: 150px;
+
+#header {
+    margin: auto;
+    width: 75%;
+}
+
+#left {
+    float: left;
+    min-width: $colmin;
+    width: $colwidth;
+    padding-right: $colpad;
+}
+
+#right {
+    float: right;
+    min-width: $colmin;
+    width: $colwidth;
+    padding-left: $colpad;
+}
+
+

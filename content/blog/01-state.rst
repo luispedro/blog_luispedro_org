@@ -6,7 +6,7 @@ author: Luis Pedro Coelho <luis@luispedro.org>
 ---
 
 There are several states: there is the welfare state, the minimal state, and
-there is the state we're in.*
+there is the state we're in.[*]_
 
 I was gone for five years, I'm back, and I expected that the heralded
 libertarian revolution would have taken place. I expected that the bridge that
@@ -64,6 +64,7 @@ happens, the rich they tager are now very well-organised into a polity called
 Germany. And these rich people don't want to pay for Portuguese
 public-servants. Really, they don't.
 
-* for English-speakers: this is a reference to a well-known speech from the
-`Carnation Revolution <http://en.wikipedia.org/wiki/Carnation_Revolution>`_.
+.. [*] for English-speakers: this is a reference to a well-known speech from
+   the `Carnation Revolution
+   <http://en.wikipedia.org/wiki/Carnation_Revolution>`_.
 

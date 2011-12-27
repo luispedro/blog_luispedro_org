@@ -19,20 +19,20 @@
 
 <body>
 <div id="header">
-    {% block topbar %}
-        {% show_tabs "Top Menu" %}
-    {% endblock %}
   <div class="logo">{% block logo %}rabbit's blog{% endblock %}</div>
   <div class="banner"><span>{% block tagline %}um texto pode esconder outro, leia duas vezes antes de avançar{% endblock %}</span></div>
+  {% show_tabs "Top Menu" %}
 </div>
 
+<div id="wrapper">
 <div id="right">
   {% block sidebar %}
     {% show_menu "Blogroll" %}
   {% endblock %}
 </div>
 <div id="left">
-  <h3>Outras Paragens</h3>
+  <img src="/static/images/headshot.jpg" alt="Headshot of me" title="Luis Pedro Coelho" style="margin-top: 16px; margin-bottom: 16px;" />
+  {% show_menu "Outras Paragens" %}
 </div>
 
 {% autoescape off %}
@@ -42,6 +42,7 @@
             {% endblock %}
         </div>
 {% endautoescape %}
+</div>
 
 <div class="spacer">&nbsp;</div>
 <div class="footer">

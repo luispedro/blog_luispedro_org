@@ -2,12 +2,28 @@ $colwidth: 168px;
 $colpad: 12px;
 $colmin: 150px;
 
+
+
+$bronzetan: #BD3600;
+$smokered: #D95550;
+$overcome: #F89B0F;
+$pondgreen: #647704;
+$crystalgreen: #90a905;
+$toastedchilipowder: #430a01;
+$purplepumpkin: #6d2243;
+$circus392: #FFDC68;
+
+h1 {
+    color: $smokered;
+}
+
 #header {
     margin: auto;
-    width: 75%;
+    width: 64%;
     ul {
-        border-top: solid 2px black;
-        border-bottom: solid 2px black;
+        border-top: solid 2px $bronzetan;
+        border-bottom: solid 2px $bronzetan;
+        background: #eee;
         padding: {
             left: 2em;
             right: 2em;
@@ -48,3 +64,35 @@ $colmin: 150px;
     width: 64%;
     margin-left: ($colpad+$colwidth);
 }
+
+.blog-post {
+    h2 a {
+        color: $purplepumpkin;
+        text-decoration: none;
+        border-bottom: 2px dotted $purplepumpkin;
+        margin-bottom: 12px;
+    }
+}
+
+
+ul.submenu {
+    list-style: none;
+    background: $circus392;
+    padding-left: 0px;
+    border-radius: 3px;
+    margin: 11px;
+    li.submenu-item {
+        padding-top: 8px;
+        padding-left: 2px;
+        a {
+            padding-bottom: 4px;
+            color: $purplepumpkin;
+            text-decoration: none;
+            &:hover {
+                color: lighten($purplepumpkin, 50%);
+            }
+        }
+    }
+}
+
+

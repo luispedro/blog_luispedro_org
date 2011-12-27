@@ -1,6 +1,6 @@
 name: Outras Paragens
 children:
- - name: Outras Paragens
+ - name: Internos
    url: /
    children:
     -   name: Homepage
@@ -9,3 +9,5 @@ children:
         url: https://twitter.com/luispedrocoelho
     -   name: google+
         url: https://plus.google.com/106906657031384929499
+    -   name: luis@luispedro.org
+        url: mailto:luis@luispedro.org

@@ -1,5 +1,5 @@
 title: Regresso
-slug: regresso
+slug: regresso-pt
 timestamp: Jan 1 2012 8:59
 categories: ecoume portuguese
 author: Luis Pedro Coelho <luis@luispedro.org>

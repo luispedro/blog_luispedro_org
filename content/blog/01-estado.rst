@@ -1,7 +1,7 @@
 title: O Estado a Que Isto Chegou
-slug: estado-a-que-isto-chegou
+slug: estado-a-que-isto-chegou-pt
 timestamp: Jan 1 2012 09:00
-categories: essays
+categories: essays portuguese
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---
 

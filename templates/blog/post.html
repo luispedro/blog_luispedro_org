@@ -4,8 +4,8 @@
     <meta name="keywords" content="{% for cat in article.categories.all %}{{ cat.name }}, {% endfor %}" />
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/blog/feed" />
 {% endblock %}
-<h2>{% block title %}{{ post.title }}{% endblock %}</h2>
 {% block content %}
+<h2>{% block title %}{{ post.title }}{% endblock %}</h2>
 <script>
 $(function () {
     var path = $(location).attr('pathname');

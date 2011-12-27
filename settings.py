@@ -99,6 +99,7 @@ INSTALLED_APPS = (
 )
 
 GITDJANGO_DIRNAME = './content'
+DISQUS_SHORTNAME = 'rabbitsblog'
 try:
     from local_settings import *
 except ImportError:

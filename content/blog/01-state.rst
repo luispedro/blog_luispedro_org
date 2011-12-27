@@ -1,4 +1,4 @@
-title: Ths state things got to
+title: Ths state We're In
 slug: estado-a-que-isto-chegou-en
 timestamp: Jan 1 2012 09:00
 categories: essays english

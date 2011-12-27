@@ -17,6 +17,25 @@ h1 {
     color: $smokered;
 }
 
+.logo {
+    font: {
+        family: "Garuda";
+        size: 36pt;
+        weight: bold;
+    }
+    color: $toastedchilipowder;
+    margin-left: 3em;
+}
+
+.banner {
+    font: {
+        family: "Garuda";
+        size: 12pt;
+        style: italic;
+    }
+    text-align: right;
+}
+
 #header {
     margin: auto;
     width: 64%;

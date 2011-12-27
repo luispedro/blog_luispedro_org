@@ -13,8 +13,19 @@ $toastedchilipowder: #430a01;
 $purplepumpkin: #6d2243;
 $circus392: #FFDC68;
 
+body {
+    font-family: sans-serif;
+    background: url(/static/images/background.jpg) no-repeat;
+    background-width: 100%;
+    background-height: 140px;
+}
+
 h1 {
     color: $smokered;
+}
+
+h2 {
+    font-family: "Garuda";
 }
 
 .logo {
@@ -23,8 +34,9 @@ h1 {
         size: 36pt;
         weight: bold;
     }
-    color: $toastedchilipowder;
+    color: white;
     margin-left: 3em;
+    text-shadow: 0px 0px 12px $toastedchilipowder;
 }
 
 .banner {
@@ -40,9 +52,9 @@ h1 {
     margin: auto;
     width: 64%;
     ul {
-        border-top: solid 2px $bronzetan;
-        border-bottom: solid 2px $bronzetan;
-        background: #eee;
+        border: solid 2px $bronzetan;
+        border-radius: 12px;
+        background: lighten($crystalgreen, 50%);
         padding: {
             left: 2em;
             right: 2em;
@@ -96,7 +108,7 @@ h1 {
 
 ul.submenu {
     list-style: none;
-    background: $circus392;
+    border-left: solid 4px $circus392;
     padding-left: 0px;
     border-radius: 3px;
     margin: 11px;

@@ -1,2 +1,3 @@
 *.pyc
 blogluispedro.db
+.sass-cache/

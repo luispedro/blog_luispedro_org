@@ -1,7 +1,7 @@
 title: Back
 slug: regresso-en
 timestamp: Jan 1 2012 8:59
-categories: ecoume english
+categories: ecume english
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---
 
@@ -16,5 +16,5 @@ it was often a spur of the moment, no-revision kind of deal) and they will be
 available both in Portuguese and English.
 
 I will also write a few restaurant reviews without schedule. Finally, the
-category *l'écoume des jours* is reserved for random blogging.
+category *l'écume des jours* is reserved for random blogging.
 

@@ -1,7 +1,7 @@
 title: Regresso
 slug: regresso-pt
 timestamp: Jan 1 2012 8:59
-categories: ecoume portuguese
+categories: ecume portuguese
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---
 
@@ -15,5 +15,5 @@ serão mais editados do que anteriormente (que muitas vezes eram escritos e
 publicados sem qualquer revisão) e estarão disponíveis em Português e Inglês.
 
 Sem horário, escreverei algumas críticas de restaurante e, na categoria,
-*l'écoume des jours* algumas notas aleatórias (quando me der na telha).
+*l'écume des jours* algumas notas aleatórias (quando me der na telha).
 

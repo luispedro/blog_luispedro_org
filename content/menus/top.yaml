@@ -7,9 +7,9 @@ children:
     -   name: Eating
         title: Lisbon Restaurants
         url: /tag/restaurants
-    -   name: Espuma
-        title: L'Ecoume des Jours
-        url: /tag/ecoume
+    -   name: Ecume
+        title: L'Ecume des Jours
+        url: /tag/ecume
     -   name: About
         url: /pages/about
 

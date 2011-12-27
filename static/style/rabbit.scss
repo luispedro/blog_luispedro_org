@@ -2,6 +2,8 @@ $colwidth: 168px;
 $colpad: 12px;
 $colmin: 150px;
 
+$tabwidth: 112px;
+$ntabs: 6;
 
 
 $bronzetan: #BD3600;
@@ -46,15 +48,22 @@ h2 {
         style: italic;
     }
     text-align: right;
+    margin-bottom: 2em;
+    span {
+        border-bottom: solid $crystalgreen 2px;
+    }
 }
 
 #header {
     margin: auto;
-    width: 64%;
+    width: ($tabwidth * $ntabs);
+    #tabs {
+        margin: auto;
+    }
     ul {
-        border: solid 2px $bronzetan;
+        border: solid 2px $pondgreen;
         border-radius: 12px;
-        background: lighten($crystalgreen, 50%);
+        background-color: white;
         padding: {
             left: 2em;
             right: 2em;
@@ -70,10 +79,20 @@ h2 {
     ul li {
         display: block;
         float: left;
-        padding-right: 5px;
-        padding-left: 5px;
         height: 22px;
-        padding-top: 12px;
+        width: $tabwidth;
+        a {
+            font: {
+                family: "Garuda";
+                weight: bold;
+                size: 16pt;
+            }
+            color: $purplepumpkin;
+            text-decoration: none;
+            &:hover {
+                text-shadow: 0px 0px 12px $pondgreen;
+            }
+        }
     }
 }
 
@@ -117,10 +136,10 @@ ul.submenu {
         padding-left: 2px;
         a {
             padding-bottom: 4px;
-            color: $purplepumpkin;
+            color: $pondgreen;
             text-decoration: none;
             &:hover {
-                color: lighten($purplepumpkin, 50%);
+                color: darken($pondgreen, 50%);
             }
         }
     }

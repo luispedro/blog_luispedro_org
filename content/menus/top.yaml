@@ -4,10 +4,11 @@ children:
         url: /
     -   name: Essays
         url: /essays
-    -   name: Restaurants
+    -   name: Eating
         title: Lisbon Restaurants
         url: /restaurants
-    -   name: L'Ecoume des Jours
+    -   name: Espuma
+        title: L'Ecoume des Jours
         url: /ecoume
     -   name: About
         url: /about

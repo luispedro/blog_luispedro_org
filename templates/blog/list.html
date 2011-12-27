@@ -10,7 +10,7 @@
 
 
 {% for post in posts %}
-    <div style="padding: 1em; background: #eee; border: 1px solid dashed">
+    <div class="blog-post">
         <h2><a href="/blog/{{ post.year_month_slug }}">{{ post.title }}</a></h2>
     
         {% if reduced %}

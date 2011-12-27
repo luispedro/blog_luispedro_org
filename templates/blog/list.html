@@ -6,9 +6,6 @@
 {% endblock %}
 {% block content %}
 
-<h1>{{ pagetitle }}</h1>
-
-
 {% for post in posts %}
     <div class="blog-post">
         <h2><a href="/blog/{{ post.year_month_slug }}">{{ post.title }}</a></h2>

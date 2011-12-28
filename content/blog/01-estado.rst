@@ -33,10 +33,9 @@ Fará o governo as coisas certas? Provavelmente não. Estamos em democracia e, e
 democracia, temos o governo que merecemos. Os governos do PS, durante anos
 deram ao país exactamente aquilo que prometeram e que o país os elegia para
 fazer (como diz o Henrique Raposo, não foram vigaristas, simplesmente foram
-socialistas). O PS ainda ganhou as últimas eleições na capital. *Não perdeu as
-eleições porque se achava que desperdiçava dinheiro a mais, mas porque se
-acabou o dinheiro para desperdiçar.* A auditoria dos cidadãos à dívida já foi
-feita: foi nas eleições de 2008. Ganhou a dívida.
+socialistas). *Não perdeu as eleições porque se achava que desperdiçava
+dinheiro a mais, mas porque se acabou o dinheiro para desperdiçar.* A auditoria
+dos cidadãos à dívida já foi feita: foi nas eleições de 2009. Ganhou a dívida.
 
 A suposta "austeridade" deste PSD pode parecer que foi muita, mas, exceptuando
 algumas medidas extraordinárias (roubo das pensões dos bancos, venda da EDP), `o

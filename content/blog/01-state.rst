@@ -35,15 +35,14 @@ made now.
 Will the right reforms be made? Probably not. This is a democracy. In a
 democracy, you get the government you deserve. The PS-led governments, for
 years gave the country exactly what it promised and what it was elected to do
-(as Henrique Raposo says, they weren't swindlers, just socialists). The last
-elections (in June 2011) they even won the capital. *They did not lose those
-elections because the electorate finally got fed up with the waste of money.
-They lost because they run out of money to waste.* (In Lady Thatcher's `words
-<http://www.snopes.com/politics/quotes/thatcher.asp>`__ the socialists ran out
-of other people's money.) Currently there is, in some leftist circles, talk of
-a Citizen's Audit to the Debt. Well, that already took place. It was during the
-2008 elections, where the growing debt and its sustainability dominated the
-debate. The debt won.
+(as Henrique Raposo says, they weren't swindlers, just socialists). *They did
+not lose those elections because the electorate finally got fed up with the
+waste of money.  They lost because they run out of money to waste.* (In Lady
+Thatcher's `words <http://www.snopes.com/politics/quotes/thatcher.asp>`__ the
+socialists ran out of other people's money.) Currently there is, in some
+leftist circles, talk of a Citizen's Audit to the Debt. Well, that already took
+place. It was during the 2009 elections, where the growing debt and its
+sustainability dominated the debate. The debt won.
 
 The supposed "austerity" of this government may seem a lot, but except for a
 few extraordinary measures (raiding private pension funds, selling assets),

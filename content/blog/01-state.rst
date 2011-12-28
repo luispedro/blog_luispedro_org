@@ -12,7 +12,7 @@ I was gone for five years, I'm back, and I expected that the heralded
 libertarian revolution would have taken place. I expected that the bridge that
 links Lisbon to Almada would have been renamed *Bridge João Miranda*. Instead,
 it's still *25 of April* and, in government, we won a D (the old party in power
-was the left-wing PS, now we have the centre-left PSD). It's not a lot of
+was the left-wing PS, now we have the centrist PSD). It's not a lot of
 progress.
 
 Portugal, excuse my Portuguese, is in deep shit. So far, austerity measures

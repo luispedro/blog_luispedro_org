@@ -13,9 +13,9 @@ APPEND_SLASH = True
 MANAGERS = ADMINS
 
 DATABASES = {
-    'dreamhost' : {
+    'default' : {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME' = _BASE_DIR + '/blogluispedro.db',
+        'NAME' : _BASE_DIR + '/blogluispedro.db',
     }
 }
 

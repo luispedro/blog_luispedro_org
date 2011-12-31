@@ -1,7 +1,8 @@
 title: About
 url: about
 categories:
-..
+---
+
 About Me
 ========
 

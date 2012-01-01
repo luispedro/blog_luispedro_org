@@ -9,7 +9,7 @@
 <script>
 $(function () {
     var path = $(location).attr('pathname');
-    if (path.search(/-pt$/) > 0) {
+    if (path.search(/-pt.?$/) > 0) {
         path = path.replace("-pt","-en");
         text = "English version";
     } else {

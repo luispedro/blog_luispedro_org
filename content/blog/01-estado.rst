@@ -5,6 +5,8 @@ categories: essays portuguese
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---
 
+Na série *não percebo o optimismo do Vasco Pulido Valente*:
+
 Há vários tipos de Estado: há o estado social, há o estado mínimo, e há o
 estado a que isto chegou.
 

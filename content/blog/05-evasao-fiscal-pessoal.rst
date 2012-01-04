@@ -15,7 +15,7 @@ Ora, meus caros, quem paga os impostos (em termos técnicos, sobre quem incide)
 da economia. Por isto, é que é mesmo muito díficil colocar impostos sobre o
 investidor. O investimento é móvel, o trabalhador/consumidor nem tanto.
 
-Et puor, se muove. O trabalhador/consumidor também pode mudar a sua sede fiscal
+Eppur, si muove. O trabalhador/consumidor também pode mudar a sua sede fiscal
 para a Holanda. Não é tão fácil, mas é simples: basta emigrar.
 
 Portugal continua a ser um país de onde se emigra, e a maioria dos emigrantes

@@ -18,9 +18,8 @@ In fact, it is an economics 101 fact that taxes are paid by those who have the
 least alternative (this is called, the incidence of the tax). This is why it is
 so hard to tax capital. Capital is mobile; the worker/consumer not so much.
 
-Et puore, se muove. The worker/consumer can change their tax liabilities to
-Holand too. It might not be as easy, but it is simple: he just needs to move
-there.
+Eppur, si muove. The worker/consumer can change their tax liabilities to Holand
+too. It might not be as easy, but it is simple: he just needs to move there.
 
 Portugal is still a country from which you emmigrate, and the majority of
 emmigrants still leave to go work in construction sites in Luxembourg or

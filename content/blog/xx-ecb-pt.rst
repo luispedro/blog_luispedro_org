@@ -1,4 +1,4 @@
-title: 
+title: BCE
 slug: ecb-pt
 timestamp: Jan 15 2012 8:58
 categories: essays portuguese

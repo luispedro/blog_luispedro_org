@@ -1,0 +1,22 @@
+title: Paragraph of the Day
+slug: paragraph-of-the-day-pt
+timestamp: Jan 5 2012 19:13
+categories: ecume portuguese
+author: Luis Pedro Coelho <luis@luispedro.org>
+---
+
+    If you are a democrat you want to gerrymander districts and have an
+    electoral college. This vastly reduces the number of votes a president
+    needs to win an election.  Then tax very highly. It’s much better to decide
+    who gets to eat than to let the people feed themselves. If you lower taxes
+    people will do more work, but then people will get rewards that aren’t
+    coming through you. Everything good must come through you. Look at African
+    farm subsidies. The government buys crops at below market price by force.
+    This is a tax on farmers who then can’t make a profit. So, how do you
+    reward people? The government subsidises fertilisers and hands it back that
+    way. 
+
+
+Leia o `texto todo
+<http://www.economist.com/blogs/prospero/2012/01/quick-study-alastair-smith-political-tyranny>`__.
+

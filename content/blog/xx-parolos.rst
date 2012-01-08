@@ -10,15 +10,17 @@ Na União Europeia, os ingleses não são verdadeiramente europeus. Sempre que h
 algum novo tratado conjunto, os ingleses nunca querem participar.
 
 Insistem naquelas noções velhas da soberania, e chagam ao ponto de querer ler
-os tratados antes de os assinar.
+os tratados antes de os assinar (que parolice!).
 
 Um tratado deve ser assinado como um acto simbólico; o texto do tratado, as
 obrigações que os estados assumem, isso não é assunto que se deve discutir
 muito entre gente educada. Imagino que os ingleses individuais também leiam
 contractos antes de os assinar. Quando vão comprar casa, devem até ter aquela
 lógica de merceeiro de fazer a simulação e descobrir quanto é que vão ter de
-pagar. Um contracto de compra de casa é um acto simbólico onde afirmarmos
-quanto gostamos do nosso banco.
+pagar.
+
+Um contracto de compra de casa é um acto simbólico onde afirmarmos quanto
+gostamos do nosso banco.
 
 *
 
@@ -33,6 +35,27 @@ são para cumprir, as propostas da Alemanha e da França que os ingleses
 rejeitaram também não seriam para cumprir. À quarta-feira, acha que a soberania
 nacional é um conceito ultrapassado que só os nacionalistas é que ainda pensam
 nisso, mas à Quinta-feira queixa-se que Portugal já não é suficientemente
-independente e põe vídeos do UK Indepence Party no facebook.
+independente e põe vídeos do UK Indepence Party no facebook. À sexta-feira
+quase que lhe vêm lágrimas ao olhos quando fala no conceito da Europa, mas ao
+Sábado resmunga ao comer couve espanhola porque já não há "do que é nosso." Ao
+Domingo, descansa porque esta actividade cansa.
+
+*
+
+A mim, não me assustam os movimentos de extrema-esquerda nem de
+extrema-direita. Podem ser responsáveis por crimes, e são-no, incluindo
+homicídios; mas não são perigosos, por si e hoje em dia, para a democracia na
+Europa.
+
+Os movimentos que me assustam são os movimentos sincréticos que não se percebe
+bem se são de esquerda ou de direita (como eram os fascismos ou o nazismo).
+Assusta-me muito mais a Le Pen-filha que se diz à esquerda dos sindicatos do
+que me assustava o Le Pen-pai. A esquerda-nacionalista (e anti-semita) ou a
+direita-esquerdista podem ser perigosas.
+
+E a confusão em relação à União Europeía está a começar a tomar contornos que,
+se Portugal não é a Húngria com um governo nacionalista e contra o
+neo-liberalismo europeu, podem ser a semente para movimentos semelhantes.
+
 
 

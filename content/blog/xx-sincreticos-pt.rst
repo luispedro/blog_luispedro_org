@@ -1,4 +1,9 @@
-
+title: Left or Right?
+timestamp: Jan 15 2012 9:00
+categories: essays portuguese
+status: draft
+author: Luis Pedro Coelho <luis@luispedro.org>
+---
 
 I am not scared by either the extreme-left nor the extreme-right. Yes, they can
 easily be criminal (and they are criminal, including murder). But they are not

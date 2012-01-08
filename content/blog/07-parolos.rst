@@ -2,7 +2,6 @@ title: Parolos do Ingleses
 slug: parolos-pt
 timestamp: Jan 8 2012 9:00
 categories: essays portuguese
-status: draft
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---
 

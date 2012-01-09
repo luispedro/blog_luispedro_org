@@ -149,3 +149,8 @@ ul.submenu {
 div.share {
     margin-top: 3em;
 }
+
+// See http://wordpress.org/support/topic/disqus-comments-showing-below-sidebar
+#disqus_thread {
+    overflow:hidden;
+}

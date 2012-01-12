@@ -1,4 +1,4 @@
-title: 
+title: Precaridade
 slug: precaridade-en
 timestamp: 12 Jan 2012 18:00
 categories: ecume english

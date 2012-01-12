@@ -1,6 +1,6 @@
 title: Pagando
 slug: pagando-pt
-timestamp: Thu Jan 12 11:09:32 WET 2012
+timestamp: Jan 12 11:09:32
 categories: ecume portuguese
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---

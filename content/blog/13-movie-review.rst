@@ -1,5 +1,5 @@
 title: Moview Review of the Day
-slug: movie-review-en
+slug: movie-review
 timestamp: Jan 16 2012 16:58
 categories: ecume english
 author: Luis Pedro Coelho <luis@luispedro.org>

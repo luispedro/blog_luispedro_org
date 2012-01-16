@@ -1,5 +1,5 @@
 title: ECB
-slug: ecb-pt
+slug: ecb-en
 timestamp: Jan 15 2012 8:58
 categories: essays english
 author: Luis Pedro Coelho <luis@luispedro.org>

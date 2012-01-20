@@ -1,4 +1,4 @@
-title: Webcraft to Free Range Students: Task I
+title: Teaching Webcraft to Free Range Students, Task I
 slug: webcraft-task-1
 timestamp: 20 Jan 2012 13:39
 categories: ecume english

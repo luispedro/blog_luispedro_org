@@ -10,11 +10,11 @@ The first task is to relate the recommendations in this `education study guide <
 
 I will talk about what I did for my `Programming for scientists <http://luispedro.org/projects/pfs>`__ course and how it relates to the recommendations.
 
-**Space learning over time.** I will give myself a B- on this. I did a good job
-with the programming part of the course where Python examples kept coming up
-and being reviewed, but a lousy one with other aspects. In particular, some of
-the tools that I wanted the students to learn (the shell and version control)
-were only mentioned in their respective sections.
+**Space learning over time.** I did a good job with the programming part of the
+course where Python examples kept coming up and being reviewed, but a lousy one
+with other aspects. In particular, some of the tools that I wanted the students
+to learn (the shell and version control) were only mentioned in their
+respective sections.
 
 **Interleave worked example solutions with problem-solving exercises** I think
 I did some of this, going through code examples. I also used to review the
@@ -42,9 +42,10 @@ time-consuming homeworks, but I think it worked out very well.
 devices, I did none of this. 
 
 **Use quizzes to re-expose students to key content** As I said, I did a lot of
-short quizzes as homework.
+short quizzes as homework. I could have been a bit more pro-active in class,
+though.
 
-**Help students allocate study time efficiently** Nope.
+**Help students allocate study time efficiently** Nope, I did none of this.
 
 **Ask deep explanatory questions** Unfortunately, I refrained from assigning
 questions that were too deep as homework as it was a low-credit class. In this

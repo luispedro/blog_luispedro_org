@@ -1,7 +1,7 @@
 title: Assorted Links/Linques Mistos
 slug: links
 timestamp: 25 Jan 2012 13:19
-categories: ecume english portugese
+categories: ecume english portuguese
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---
 

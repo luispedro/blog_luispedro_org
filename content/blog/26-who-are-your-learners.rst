@@ -1,4 +1,4 @@
-title: Task 2: Who are your learners
+title: Task 2 — Who are your learners
 slug: 26-who-are-your-learners
 timestamp: 27 Jan 2012 18:53
 categories: ecume english free-range

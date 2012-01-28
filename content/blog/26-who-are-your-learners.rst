@@ -5,10 +5,12 @@ categories: ecume english free-range
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---
 
-This is Task 2 from my line course on `How to Teach Webcraft and Programming to Free-Range Students <http://p2pu.org/en/groups/how-to-teach-webcraft-and-programming-to-free-range-students/>`__
+This is Task 2 from my online course on 
+`How to Teach Webcraft and Programming to Free-Range Students <http://p2pu.org/en/groups/how-to-teach-webcraft-and-programming-to-free-range-students/>`__
 . The question is to describe who the learners are.
 
-Again, my answers are focused on my `Programming for scientists <http://luispedro.org/projects/pfs>`__ course. 
+Again, my answers are focused on my 
+`Programming for scientists <http://luispedro.org/projects/pfs>`__ course. 
 
 **Who are my learners?**
 
@@ -16,15 +18,17 @@ Again, my answers are focused on my `Programming for scientists <http://luispedr
 picked up a bit of Matlab in a two day workshop a year back and has been
 writing some code to analyse her results. She is surprised at herself for
 enjoying it, but does not use any version control, has no experience writing
-anything longer than 100 lines, and, generally, her code is spaghetti like.
+anything longer than 100 lines of code, and, generally, her code is spaghetti
+like.
 
 *Maria* works on material sciences for her PhD. She has been forced to learn
 how to write a bit of Fortran code. She learned it back in undergraduate in a
 formal university course and others in the lab have developed a big solid state
-simulator. She doesn't like it very much and it takes her a very long time to
-get anything done. Her advisor or supervised recommended that she take a few
-more courses so that she can improve. She is not enthusiastic, but thinks that
-programming is something that, unfortunately, has become a required lab skill.
+simulator library that she must use for her work. She doesn't like it very much
+and it takes her a very long time to get anything done. Her advisor or
+supervised recommended that she take a few more courses so that she can
+improve. She is not enthusiastic, but thinks that programming is something
+that, unfortunately, has become a required lab skill.
 
 Naturally, I prefer the enthusiastic student, but I have seen both attitudes
 and every thing in between.
@@ -42,7 +46,8 @@ background for the course.
 *Rita* is a computer programmer who wants to learn Python. She is also
 interested in learning about bioinformatics, so she thought that a *for
 scientists* course would help. Rita could probably benefit from the first
-module, where students are, in fact, thought Python, and she is welcome to do
-that. But we do not really go over any bioinformatics as such and much of the
-rest of the course might be repetitions for her.
+module, where students are, in fact, taught Python, and she is welcome to sit
+through those sessions. But we do not really go over any bioinformatics as such
+and much of the rest of the course might be a repetitiion of what she already
+knows.
 

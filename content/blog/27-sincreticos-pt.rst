@@ -1,15 +1,8 @@
-title: Left or Right?
-timestamp: Jan 15 2012 9:00
+title: Esquerda ou Direita?
+timestamp: Jan 27 2012 9:00
 categories: essays portuguese
-status: draft
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---
-
-I am not scared by either the extreme-left nor the extreme-right. Yes, they can
-easily be criminal (and they are criminal, including murder). But they are not
-dangerous, today, for democracy in Europe.
-
-*
 
 A mim, não me assustam os movimentos de extrema-esquerda nem de
 extrema-direita. Podem ser responsáveis por crimes, e são-no, incluindo
@@ -26,5 +19,15 @@ E a confusão em relação à União Europeía está a começar a tomar contorno
 se Portugal não é a Húngria com um governo nacionalista e contra o
 neo-liberalismo europeu, podem ser a semente para movimentos semelhantes.
 
+Em Portugal, os partidos de extrema-esquerda começam a namorar o apelo
+nacionalista. O PCP sempre foi para a cama com o nacionalismo para depois, de
+manhã, dizer que são só amigos. No BE, é um flirt mais novo, mas perigoso. Os
+intelectuais de esquerda devem ter cuidado com os seus partidos. O apelo ao
+nacionalismo funciona e traz votos, mas podem perder o controlo. A combinação
+de um apelo nacionalista a um apelo socialista pode ser demasiado eficaz.
 
+(O mesmo se aplica um pouco ao contrário quando o Paulo Portas se diz à
+esquerda do PS, mas o CDS-PP é um partido do regime, um partido burguês. Os
+partidos burgueses não são perigosos. O Manuel Monteiro encaixariam melhor no
+molde acima, mas ele e os seus apoiantes não chegam para encher um taxi.)
 

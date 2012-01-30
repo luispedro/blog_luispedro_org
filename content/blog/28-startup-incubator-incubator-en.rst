@@ -7,7 +7,7 @@ author: Luis Pedro Coelho <luis@luispedro.org>
 
 Are you up for reelection next year and need to look trendy? Does your company
 have too much money and want to be invited to the right parties? All your
-friends went to Davos and you weren't invited?
+friends went to Davos and you can't even get a date on Friday?
 
 Then start a startup incubator! And the **Rabbit Startup Incubator Incubator**
 will help you do that.
@@ -36,7 +36,7 @@ and cool lamps to get.
 
 Our experts have started startup incubators all over the world, including one
 in Jarkurghon, Uzbekistan, which is the leading startup incubator in the world
-for innovation for the Potassium-based economy! We have collectively spent
+in innovation for the Potassium-based economy! We have collectively spent
 billions of taxpayer money and gotten hundreds of mayor's photo ops with Bono
 and other innovators.
 

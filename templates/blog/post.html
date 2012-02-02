@@ -9,15 +9,16 @@
 <script>
 $(function () {
     var path = $(location).attr('pathname');
+    var has = false;
     if (path.search(/-pt.?$/) > 0) {
         path = path.replace("-pt","-en");
-        text = "English version";
-    } else {
+        $('#alternate')
+            .append("<a href='"+path+"'>English version</a>");
+    } else if (path.search(/-en.?$/) > 0) {
         path = path.replace("-en","-pt");
-        text = "Versão Portuguesa";
+        $('#alternate')
+            .append("<a href='"+path+"'>Versão Portuguesa</a>");
     }
-    $('#alternate')
-        .append("<a href='"+path+"'>"+text+"</a>");
 });
 </script>
 <p id='alternate'></p>

@@ -1,0 +1,20 @@
+title: Traduções
+slug: traducoes
+timestamp: Feb 27 2012 16:20
+categories: ecume portuguese
+author: Luis Pedro Coelho <luis@luispedro.org>
+---
+
+O jugular continua a insistir que `Krugman não disse aquilo que ele disse <http://jugular.blogs.sapo.pt/3153161.html>`__
+
+Ainda por cima, é uma opinião perfeitamente coerente com o resto do Paul
+Krugman. Ele é um Keyenesiano, logo provavelmente acha que os salários são
+sticky (isto é, não baixam facilmente) e é preciso inflacção para os descer em
+termos reais. Não tem parado de o repetir.
+
+(Nota: eu concordo plenamente com o Krugman, só que prefiro falar em termos de
+"custos laborais" que o valor dos salários não interessa nada para esta
+discussão).
+
+[`Prévio post sobre este assunto http://blog.luispedro.org/2012/1/30-o-joao-galamba-nao-sabe-frances/>`__]
+

@@ -1,5 +1,5 @@
-title: Crime
-slug: 49-crime
+title: Jornalistas
+slug: 50-jornalista
 timestamp: 23 Mar 2012 12:33
 categories: ecume portuguese
 author: Luis Pedro Coelho <luis@luispedro.org>

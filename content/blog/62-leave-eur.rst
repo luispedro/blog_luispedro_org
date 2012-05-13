@@ -10,7 +10,7 @@ and so should Greece and Ireland, but Italy and Spain can stay, along with Belgi
 1. Here is the evolution of NGDP in the euro zone and a few select countries
 (normalized to start at 2002):
 
-.. image:: /files/images/ngdp-centre.png
+.. image:: /files/images/ngdp_centre.png
    :alt: NGDP in EZ
 
 We see the typical large fall in 2008 followed by a new trend line. I added a
@@ -23,7 +23,7 @@ has been doing better since the crisis**, catching up.
 
 2. Now, look at the PIIBGS (the black line is the same as in the plot above):
 
-.. image:: /files/images/ngdp-piigs.png
+.. image:: /files/images/ngdp_piigs.png
    :alt: NGDP in PIIGS
 
 3. Greece is a basket-case and its statistics are all marked provisional (even

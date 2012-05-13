@@ -1,6 +1,6 @@
 title: Why Portugal Should Leave the Euro
 slug: pt-euro
-timestamp: May 13 16:01
+timestamp: May 13 2012 22:01
 categories: essays english
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---

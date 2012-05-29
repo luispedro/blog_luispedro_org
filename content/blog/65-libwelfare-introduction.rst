@@ -1,9 +1,15 @@
-title: Libertarian Welfare State: Introductions
+title: (Libertarian Welfare State) Introduction
 slug: lw-introduction
 timestamp: May 29 2012 14:01
 categories: essays english
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---
+
+Here is a first draft of an introduction to my book.
+
+Comments are welcome.
+
+*
 
 Despite all the rhetorical polarization in modern day America, there is central
 ground on which both the Democrats and Republicans agree. The Democrats are not

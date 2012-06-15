@@ -9,8 +9,8 @@ author: Luis Pedro Coelho <luis@luispedro.org>
 
 2. Ideally, the European Central Bank would step up to the task.
 
-3. Since, it does not, they are best of leaving the Euro zone and pursuing an
-independent monetary policy.
+3. Since, it does not, they are best off leaving the Euro zone and pursuing an
+   independent monetary policy.
 
 4. Or they can do nothing and blame Germany for everything.
 

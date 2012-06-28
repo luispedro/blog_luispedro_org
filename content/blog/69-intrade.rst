@@ -1,7 +1,7 @@
 title: A few notes on intrade
-slug: pt-euro
-timestamp: May 13 2012 22:01
-categories: essays english
+slug: intrade
+timestamp: Jun 28 2012 18:13
+categories: ecume english
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---
 

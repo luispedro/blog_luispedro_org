@@ -1,6 +1,6 @@
 title: Divisions
 slug: divisions
-timestamp: Jun 39 2012 16:41
+timestamp: Jun 29 2012 16:41
 categories: essays english
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---

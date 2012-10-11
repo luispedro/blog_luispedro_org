@@ -1,0 +1,45 @@
+title: Population
+slug: 72-population-en
+timestamp: 11 Oct 2012 23:27
+categories: ecume english
+author: Luis Pedro Coelho <luis@luispedro.org>
+---
+
+While we are playing austerity, the real issue that will bring down the
+Portuguese economy is still around the corner. This is not just a Portuguese
+issue, and it affects Germany as much as the PIGS (not Ireland who, as good
+Catholics, still have babies).
+
+.. image:: /files/images/population.png
+
+This (the red line) is an estimate of the population going forward. Data was
+taken from `Pordata <http://www.pordata.pt/Tema/Portugal/Populacao-1>`__ and I
+just project birth and death rates forward assuming that all of the deaths
+happen in old people. It is a rough estimate, which is why I drew it in this
+"hand-drawn" style. One particular misestimation is that it assumes forward the
+average birth rate of the years 2005-2010, which is higher than it was in 2011
+(and 2012 will likely be even lower). Still, we can expect that over the next
+10 years or so, population will be stable, and then a crash starts, where
+Portugal loses about 1 million every 10 years (that's 100,000 people, a
+medium-sized town, per year).
+
+The blue line shows a sort of *dependency ratio*. This is the number of people
+over 65 divided by the number in the ages 20-65 (all people in these ages, many
+of which might not be working). Around 2035, there will be 1 person over 65 for
+every person in the age group 20-65!
+
+Let me repeat that: if the current trends continue, we can expect that around
+2035 (and henceforth, forever), there will be one person over 65 for each
+person in the age group 20-65.
+
+The migratory balance is probably now a net negative (more people moving out of
+the country as moving in), so that's another net negative.
+
+Another thing that I actually did not realise is how far back the drop in
+fertility goes. Here is the curve of births per 1000 from 1960 (the earliest
+year in Pordata's data) to last year:
+
+.. image:: /files/images/fertility.png
+
+
+(The script to generate these plots is `here <https://gist.github.com/3876139>`__)

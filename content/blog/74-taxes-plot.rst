@@ -5,7 +5,7 @@ categories: ecume english
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---
 
-Following up on my `previous post <//2012/10/taxes-en/>`__, here is a graph of
+Following up on my `previous post <http://blog.luispedro.org/2012/10/taxes-en/>`__, here is a graph of
 what rate you pay as a function of your salary (assuming 12 months of salary).
 
 .. image:: /files/images/taxrates.png

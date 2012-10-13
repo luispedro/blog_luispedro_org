@@ -32,7 +32,7 @@ be paid in taxes in Portugal:
         €<strong id='val'></strong>). Then you will pay an extra 11% to Social
         Security.  You will now have €<strong id='after_ss'></strong>, of
         which, assuming no rebates, you will pay <strong
-        id='irs_rate'></strong>% as IRS.</p>
+        id='irs_rate'></strong>% as income tax (IRS).</p>
 
         <p>Of course, do not forget that most of what you spend this money on
         will be further taxed at 23%!</p>

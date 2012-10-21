@@ -1,6 +1,6 @@
 title: Interest Payments
 slug: interest
-timestamp: 21 Oct 2012 1111111111111111111111
+timestamp: 21 Oct 2012 11:52
 categories: ecume english
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---

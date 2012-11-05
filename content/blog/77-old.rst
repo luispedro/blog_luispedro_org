@@ -26,7 +26,7 @@ No big booms, no leaving the Euro (even though I think `Portugal should leave
 the Euro <http://blog.luispedro.org/2012/11/leave-euro/>`__), nothing, really.
 Slow, bitter-sweet decline (see Argentina, last 100 years).
 
-(By the way, if you're wondering, median results in the same sort of graph,
-except that the median is slightly higher).
+(By the way, if you're wondering, plotting the median results in the same sort
+of graph, except that the median is slightly higher).
 
 

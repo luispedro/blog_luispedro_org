@@ -56,7 +56,7 @@ author: Luis Pedro Coelho <luis@luispedro.org>
     high inflation all the time, that they over-compensated. Even the Bundesbank
     used to be well more stimulative than the ECB. After all, Germany is
     suffering too because of the hard money policies of the ECB. This is a
-    policy that caters more to German's prejudices than to its interests.
+    policy that caters more to Germany's prejudices than to its interests.
     
     I would still prefer it, a million times, if the ECB were to change its
     policies, rather than forcing the weaker states out of the Euro. The

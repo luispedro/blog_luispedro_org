@@ -1,4 +1,4 @@
-title: Book Review: Darwin Economy by R. Frank
+title: Book Review Darwin Economy by R. Frank
 slug: pt-euro
 timestamp: May 13 2012 22:01
 categories: essays libwelfare english

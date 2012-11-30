@@ -1,6 +1,6 @@
 title: Book Review Darwin Economy by R. Frank
 slug: pt-euro
-timestamp: May 13 2012 22:01
+timestamp: Nov 30 2012 20:01
 categories: essays libwelfare english
 author: Luis Pedro Coelho <luis@luispedro.org>
 ---

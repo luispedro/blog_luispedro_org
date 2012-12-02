@@ -12,7 +12,7 @@ The original author `had argued
 that the improved schools in New Orleans were due to the hits against the
 teachers' union and reform. The reader replies
 
-    [The colorful bar graph does not provide a comparison between the public
+    [T]he colorful bar graph does not provide a comparison between the public
     schools and the charter schools today, but only a comparison of the schools
     then and now. The public schools may in fact be better than the charters.
 

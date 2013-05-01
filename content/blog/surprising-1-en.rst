@@ -44,11 +44,12 @@ is possible to be a non-supernatural environmentalist [I am one], but that will
 often put you at odds with the environmentalist movement (the environmentalist
 movement still has not come to grip with the `Urea experiment <http://en.wikipedia.org/wiki/Urea#History>`__).
 
-Environmentalist New Age can easily be a gateway drug to religion.
-
-At some point, it really becomes a matter of definition whether someone who
-believes in the super-natural, reincarnation, and takes advice from mystics
-should be called non-religious.
+And this Environmentalist New Ageismcan easily be a gateway drug to religion.
+As you add more irrationality, a belief in reincarnation, for example. Some
+yoga or whatnot instructors easily make the transition to talking about harmony
+with the energy flows of the chakras. At some point, it really becomes a matter
+of definition whether someone who believes in the super-natural, reincarnation,
+and takes advice from mystics should be called non-religious.
 
 At the same time, evangelicals are gaining adherents even in the old continent.
 

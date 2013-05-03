@@ -1,0 +1,46 @@
+title: First Post on Metarabbit
+slug: metarabbit-1
+timestamp: 03 May 2013 22:49
+categories: ecume english
+author: Luis Pedro Coelho <luis@luispedro.org>
+--
+
+Following Titus `advice
+<http://ivory.idyll.org/blog/advice-to-graduate-students.html>`__ (rather late,
+I am no longer a student, but a postdoc), I started a new research blog:
+`http://metarabbit.wordpress.com <http://metarabbit.wordpress.com>`__.
+
+I plan to publish at least three times a week and I have `set up a beeminder <https://www.beeminder.com/luispedro/goals/metarabbit>`__ for
+it, so I'm serious (if you don't know about beeminder, check it out). I plan to
+post:
+
+1.  Reviews of papers I read and liked. This is the easiest because if I've
+    read the paper and thought about it, the extra effort of writing a couple
+    of paragraphs is small.
+2.  Thoughts on science and the Game of Science.
+3.  Observations that are science-related.
+4.  Discussion of my published work or results that will not be published.
+
+I will not publish on my ongoing work so much, uneless it is truly marginal.
+I'd be all for full frontal nudity (in scientific terms), but this would very
+often involve other people's ideas/projects as well. And they may be more
+prudish than I am. So, until something is published (or at least *in press*), I
+will not mention on-going projects.
+
+On the other hand, it is often frustrating to leave some interesting tidbits
+out of published work or be forced to squeeze all your ideas into the page
+limits of a publication. So, I will be taking advantage of the lack of page
+limits on the blog to expand on some of what I publish. Of course, I also hope
+that it will increase the vivsibility of the papers, but this will only work if
+I write relevant posts.
+
+*
+
+I used to blog a lot about politics, but I grew tired of it (`politics is the mind killer <http://lesswrong.com/lw/gw/politics_is_the_mindkiller/>`__)
+sports teams). I am now `writing a book about my political ideas <http://luispedro.org/projects/libertarian-welfare>`__. Once that's
+done, I will no longer need to talk about politics. It will be in the book.
+
+But I still need to talk about science because I still think science is
+fascinating and the time for a good idea to take hold is measured in years, not
+centuries.
+

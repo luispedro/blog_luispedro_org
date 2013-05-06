@@ -1,7 +1,7 @@
 title: First Post on Metarabbit
 slug: metarabbit-1
 timestamp: 03 May 2013 22:49
-categories: ecume english
+categories: ecume english metarabbit
 author: Luis Pedro Coelho <luis@luispedro.org>
 --
 

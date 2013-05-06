@@ -36,8 +36,11 @@ I write relevant posts.
 
 *
 
-I used to blog a lot about politics, but I grew tired of it (`politics is the mind killer <http://lesswrong.com/lw/gw/politics_is_the_mindkiller/>`__)
-sports teams). I am now `writing a book about my political ideas <http://luispedro.org/projects/libertarian-welfare>`__. Once that's
+I used to blog a lot about politics, but I grew tired of it (`politics is the
+mind killer <http://lesswrong.com/lw/gw/politics_is_the_mindkiller/>`__, you
+end up arguing your sports team is more moral than the other guy's team).  I am
+now `writing a book about my political ideas
+<http://luispedro.org/projects/libertarian-welfare>`__. Once that's
 done, I will no longer need to talk about politics. It will be in the book.
 
 But I still need to talk about science because I still think science is

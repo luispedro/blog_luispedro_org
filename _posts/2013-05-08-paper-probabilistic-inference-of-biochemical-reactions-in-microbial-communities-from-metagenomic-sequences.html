@@ -1,0 +1,65 @@
+---
+layout: post
+title: 'Paper: Probabilistic Inference of Biochemical Reactions in Microbial Communities
+  from Metagenomic Sequences'
+---
+
+<p><strong>Paper</strong>: <a class="reference external" href="http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002981">Probabilistic Inference of Biochemical Reactions in Microbial
+Communities from Metagenomic Sequences</a>
+by Dazhi Jiao, Yuzhen Ye, and Haixu Tang</p>
+<p>This is a recent paper in <a class="reference external" href="http://www.ploscompbiol.org/">Plos CompBio</a> which
+looks at the following problem:</p>
+<ol class="arabic simple">
+<li>Metagenomics (the sequence of genomes in mixed population samples) gives us many genes. Many of these genes can be mapped to enzymes.</li>
+<li>Those enzyme can be mapped (with a database such as <a class="reference external" href="http://en.wikipedia.org/wiki/KEGG">KEGG</a>) to reactions, but these assignments are <em>ambiguous</em>.</li>
+<li>Can we obtain a consensus interaction network?</li>
+</ol>
+<p>The authors approach the problem probabilisticly by computing, for each
+possible interaction network, a probability. Their model is based on the notion
+that real interaction networks probably have fewer metabolites than all
+possible combinations. From the paper (my emphasis):</p>
+<blockquote>
+However, if the product of a gene is annotated to catalyze multiple
+reactions, some of these reactions may be excluded from the sampled
+subnetwork, as long as at least one of these reactions is included. We note
+that, according to this condition, each sampled subnetwork represents a
+putative reconstruction of the collective metabolic network of the
+metagenome, among which <strong>we assume the subnetworks containing fewer
+metabolites are more likely to represent the actual metabolism of the
+microbial community than the ones containing more metabolites.</strong></blockquote>
+<p>From this idea, using standard <a class="reference external" href="http://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo">MCMC</a> they are able to
+assign to each reaction a probability that it is part of a community.</p>
+<p>They validate their method using clustering. They show that using their
+probability assignments results in better separation of samples that relying on
+naïve assignments of all enzymes to all possible reactions. The result is nice
+and clean.</p>
+<p>To reduce this to bare essentials, the point is that their method (on the
+right) gets the separation between the different types of samples (represented
+by different symbols) better than any alternatives.</p>
+<a class="reference external image-reference" href="http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002981.g001/largerimage"><img alt="Hierarchical clustering of 44 IMG/M metagenomics samples represented in dendrograms." class="align-center" src="http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1002981.g001/largerimage" style="width: 70%;" /></a>
+<p>They also suggest that they are able to extract differentially present
+reactions better than the baseline methods. Unfortunately, due to the lack of a
+validated result, it is really impossible to know whether they just got more
+false positives. I do not really know how to do it better, though. This is just
+one of those fundamental problems in the field: the lack of validated
+information to build upon.</p>
+<p>However, it is good to be able to even talk of differentially expressed
+reactions instead of just genes or orthologous groups.</p>
+<ul class="simple">
+<li></li>
+</ul>
+<p>In global, the authors present an interesting formulation of a hard problem. I
+always like the idea of handling uncertainty probabilistically and it is good
+to see that it really does work.</p>
+<p>This is the sort of paper that opens up a bunch of questions immediately on
+extensions:</p>
+<ul class="simple">
+<li>Can similar methods handle uncertainty in the basic gene assignments?</li>
+<li>Or KEGG annotations?</li>
+</ul>
+<p>Currently, they assume that all enzymes are actually present and perform one of
+the functions listed, but neither of these statements is always true.</p>
+<p>Another area where their method could be taken is whether to move up from
+computing marginal probabilities of single reactions and into computing small
+subnetworks. I hope that the authors are exploring some of these questions and
+present us with some follow up work in the near future.</p>

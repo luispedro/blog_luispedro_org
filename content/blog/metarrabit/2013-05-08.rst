@@ -1,9 +1,9 @@
-title: Paper: Probabilistic Inference of Biochemical Reactions in Microbial Communities from Metagenomic Sequences
+title: "Paper: Probabilistic Inference of Biochemical Reactions in Microbial Communities from Metagenomic Sequences"
 slug: metarabbit-3
 timestamp: 08 May 2013 09:19
 categories: ecume english metarabbit
 author: Luis Pedro Coelho <luis@luispedro.org>
---
+---
 
 **Paper**: `Probabilistic Inference of Biochemical Reactions in Microbial
 Communities from Metagenomic Sequences

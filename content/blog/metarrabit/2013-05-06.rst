@@ -1,9 +1,9 @@
-Title: People are Right Not to Share Code...
+title: People are Right Not to Share Code...
 slug: metarabbit-2
 timestamp: 06 May 2013 10:49
 categories: ecume english metarabbit
 author: Luis Pedro Coelho <luis@luispedro.org>
---
+---
 
 ... but we are wrong to let them get away with it.
 

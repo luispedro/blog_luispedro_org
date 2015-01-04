@@ -1,3 +1,27 @@
+---
+# Needed to trigger Jekyll SASS processing
+---
+@charset "utf-8";
+
+$base-font-family: Helvetica, Arial, sans-serif;
+$spacing-unit:     30px;
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+
 $colwidth: 168px;
 $colpad: 12px;
 $colmin: 150px;
@@ -16,7 +40,7 @@ $purplepumpkin: #6d2243;
 $circus392: #FFDC68;
 
 body {
-    font-family: sans-serif;
+    font-family: $base-font-family;
     background: url(/static/images/background.jpg) no-repeat;
     background-width: 100%;
     background-height: 140px;
@@ -154,3 +178,25 @@ div.share {
 #disqus_thread {
     overflow:hidden;
 }
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;

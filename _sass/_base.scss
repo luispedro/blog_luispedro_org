@@ -9,22 +9,6 @@ dl, dd, ol, ul, figure {
 }
 
 
-
-/**
- * Basic styling
- */
-body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
-    font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
-}
-
-
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -44,8 +28,6 @@ img {
     max-width: 100%;
     vertical-align: middle;
 }
-
-
 
 /**
  * Figures
@@ -84,23 +66,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
-/**
- * Links
- */
-a {
-    color: $brand-color;
-    text-decoration: none;
-
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
-
-    &:hover {
-        color: $text-color;
-        text-decoration: underline;
-    }
-}
 
 
 
